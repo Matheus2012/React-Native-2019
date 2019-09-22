@@ -7,6 +7,6 @@
 React Native(JSX e Javascript)
 
 #### Back-End
-Node
-Express
-Banco de dados a definir
+Node 
+Express  
+Banco de dados a definir  
