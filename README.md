@@ -1,5 +1,5 @@
 # ReactNative IOS-Android   CC6P12
-## Sistema para procure e oferta de serviços de transporte escolar/universitário.  
+## Sistema para procura e oferta de serviços de transporte escolar/universitário.  
 
 ### Linguagens e técnologias  
 #### Front-End:
