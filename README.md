@@ -1,11 +1,11 @@
 # ReactNative IOS-Android   CC6P12
 ## Sistema para procure e oferta de serviços de transporte escolar/universitário.  
 
-###Linguagens e técnologias  
+### Linguagens e técnologias  
 #### Front-End:
 React Native(JSX e Javascript)
 
-####Back-End
+#### Back-End
 Node
 Express
 Banco de dados a definir
